@@ -1,0 +1,45 @@
+/* my book chapter css */
+/* color pallete
+#348888 dark green
+#22BABB light green
+#9EF8EE lighter green
+#FA7F08 orange
+#F24405 dark orange
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#9EF8EE;
+}
+h1 {
+    text-align: center;
+    background-color: #348888;
+    border: 5px #F24405 dotted;
+    ;
+}
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight:bolder;
+    text-align: left;
+    color: black;
+    background-color: #FA7F08;
+    border: 5px #348888 dotted;
+}
+cite {
+    font-size: 1.25rem;
+    font-weight:lighter;
+    color: black;
+}
+.dashline {
+    text-align: center;
+    background-color: #348888;
+    }
+ol {
+    font-size: 1.15rem;
+    font-weight: bold;
+}
+.underline {
+    text-decoration: underline;
+}
